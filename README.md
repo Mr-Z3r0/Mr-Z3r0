@@ -1,4 +1,4 @@
-#Hi there, i'm Mr-Z3r0. Developer and pentester.
+# Hi there, i'm Mr-Z3r0. Developer and pentester.
 - I learned to program 3 years ago.😈
 - i'm jr developer.🖒
 - i'm actually learning everything.
